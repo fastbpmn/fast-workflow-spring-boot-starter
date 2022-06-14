@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "fast.workflow.properties",
+      "type": "com.fast.FastWorkFlowProperties",
+      "sourceType": "com.fast.FastWorkFlowProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fast.workflow.properties.name",
+      "type": "java.lang.String",
+      "sourceType": "com.fast.FastWorkFlowProperties"
+    }
+  ],
+  "hints": []
+}

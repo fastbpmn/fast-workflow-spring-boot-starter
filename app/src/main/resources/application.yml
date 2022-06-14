@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: "@spring.active@"
+
+server:
+  port: 8088
+
+fast:
+  workflow:
+    properties:
+      name: fast-workflow

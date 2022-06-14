@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: "@spring.active@"
+
+project:
+  version: v1.0

@@ -1,0 +1,4 @@
+com\fast\FastWorkFlowController.class
+com\fast\FastWorkFlowProperties.class
+com\fast\FastWorkFlowAutoConfiguration.class
+META-INF\spring-configuration-metadata.json

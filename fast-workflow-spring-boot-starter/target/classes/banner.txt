@@ -1,0 +1,10 @@
+
+Spring Boot Version: ${spring-boot.version}
+Server Port: ${server.port}
+Current ENV: ${spring.profiles.active}
+
+      __   __        ___       __
+|  | /  \ |__) |__/ |__  |    /  \ |  |
+|/\| \__/ |  \ |  \ |    |___ \__/ |/\|
+
+                                   ${project.version}
