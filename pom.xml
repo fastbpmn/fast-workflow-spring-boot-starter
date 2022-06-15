@@ -11,8 +11,8 @@
         <relativePath></relativePath>
     </parent>
 
-    <groupId>com.fast</groupId>
-    <artifactId>spring-auto-parent</artifactId>
+    <groupId>io.github.fast.workflow</groupId>
+    <artifactId>fast-workflow-starter</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
